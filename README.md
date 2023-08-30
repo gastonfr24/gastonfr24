@@ -69,3 +69,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/gastonfr24/gastonfr24/output/snake.svg" alt="Snake animation" />
+
+###
