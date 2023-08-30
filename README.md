@@ -67,9 +67,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gastonfr24/gastonfr24/output/snake.svg" alt="Snake animation" />
-
-###
