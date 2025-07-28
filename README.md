@@ -1,4 +1,4 @@
-<h2 align="left">My name is Gaston Franco, and I'm a Data Scientist & Backend Developer Ssr.</h2>
+<h2 align="left">Data Scientist & Backend Developer Ssr.</h2>
 
 ###
 
